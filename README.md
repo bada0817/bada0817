@@ -30,6 +30,7 @@
 
 | Project | Description | |
 |---|---|---|
+| 🤖 [**URDF-Importer** <sub>(fork)</sub>](https://github.com/bada0817/URDF-Importer) | Maintained fork of Unity's URDF Importer: fixes Windows re-imports of robots sharing meshes, Unity 6 API, and the default joint controller. | ![C#](https://img.shields.io/badge/-Unity%20package-000000?style=flat-square&logo=unity&logoColor=white) |
 | 🎬 [**blender-session-recorder**](https://github.com/bada0817/blender-session-recorder) | Records what you do in Blender, step by step, to a log next to your `.blend` file. | ![Python](https://img.shields.io/badge/-Blender%20add--on-E87D0D?style=flat-square&logo=blender&logoColor=white) |
 | 🔌 [**blender-mcp-toggle**](https://github.com/bada0817/blender-mcp-toggle) | Toggle the Blender MCP server on/off with <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>M</kbd>. | ![Python](https://img.shields.io/badge/-Blender%20add--on-E87D0D?style=flat-square&logo=blender&logoColor=white) |
 | 🖥️ [**chrome-remote-desktop-share-screen**](https://github.com/bada0817/chrome-remote-desktop-share-screen) | Make Chrome Remote Desktop on Linux share your current screen (`:0`) instead of a virtual session. | ![Shell](https://img.shields.io/badge/-Linux%20patch-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
